@@ -8,7 +8,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "WAAAHHHH YAYYY ILOVEYOUUUUU PO🥺";
   gif.src =
-    "https://tenor.com/view/peach-cat-blushing-gif-7696518393516476520";
+    "https://media.tenor.com/as-Gs3TPSGgAAAAi/peach-cat-blushing.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
