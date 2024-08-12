@@ -1,3 +1,4 @@
+console.log('Script is running');
 const wrapper = document.querySelector(".wrapper");
 const question = document.querySelector(".question");
 const gif = document.querySelector(".gif");
@@ -5,9 +6,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I love you too! 😘";
+  question.innerHTML = "WAAAHHHH YAYYY ILOVEYOUUUUU PO🥺";
   gif.src =
-    "https://media1.giphy.com/media/iCVzZwwE6QNAV2tEE0/giphy.gif";
+    "https://tenor.com/view/peach-cat-blushing-gif-7696518393516476520";
 });
 
 noBtn.addEventListener("mouseover", () => {
